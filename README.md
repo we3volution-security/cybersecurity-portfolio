@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-<!-- CHECK: add your name / preferred handle and a contact route (LinkedIn or email) on the line below -->
+**[LinkedIn](https://linkedin.com/in/lewis-bradley)** · [we3volution.com](https://we3volution.com)
 
 Building practical capability in IT and cybersecurity with a focus on offensive security — and applying it publicly through [we3volution.com](https://we3volution.com), a free digital-literacy and scam-safety platform I build, write and maintain.
 
